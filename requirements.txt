@@ -1,18 +1,18 @@
 # Phase I: Data Architecture & Quantitative Baseline
-pandas==2.1.4
-numpy==1.26.2
-scipy==1.11.4
-yfinance==0.2.33
+pandas
+numpy
+scipy
+yfinance
 
 # Phase II: Machine Learning Execution Engine
-xgboost==2.0.2
-scikit-learn==1.3.2
+xgboost
+scikit-learn
 
 # Phase III: Deep Learning Graph Contagion Simulator
-networkx==3.2.1
-torch==2.1.2
-torch-geometric==2.4.0
+networkx
+torch
+torch-geometric
 
 # Phase IV: Frontend Integration & Visualization
-streamlit==1.29.0
-plotly==5.18.0
+streamlit
+plotly
